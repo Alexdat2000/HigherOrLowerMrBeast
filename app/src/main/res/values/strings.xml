@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">HOL: MrBeast</string>
+
+    <string name="app_title">Higher Or Lower: MrBeast Edition</string>
+    <string name="colored_app_title">
+        <font color='#59ac51'>Higher</font>
+        <font color='#000000'>Or</font>
+        <font color='#c75555'>Lower:</font>
+        <font color='#00b0d9'>MrBeast</font>
+        <font color='#f74b7b'>Edition</font>
+    </string>
+
+    <string name="main_button_start">Start</string>
+    <string name="main_button_highscores">Highscores</string>
+    <string name="main_button_about">About</string>
+    <string name="main_button_exit">Exit</string>
+
+    <string name="thumbnail_2_placeholder">Thumbnail #2</string>
+    <string name="thumbnail_1_placeholder">Thumbnail #1</string>
+
+    <string name="game_screen_title">
+        <font color='#59ac51'>Higher</font>
+        <font color='#000000'>Or</font>
+        <font color='#c75555'>Lower</font><font color='#000000'>?</font>
+    </string>
+    <string name="highscores_screen_title">Highscores</string>
+    <string name="about_screen_title">About</string>
+
+    <string name="highscores_column_place">Place</string>
+    <string name="highscores_column_timestamp">Timestamp</string>
+    <string name="highscores_column_result">Result</string>
+
+    <string name="about_text">App was created by Alexdat2000 in August, 2023\nAll copyright was violated, sorry(\nLinks:\nTelegram: https://t.me/Alexdat2000\nGitHub: https://github.com/Alexdat2000</string>
+    <string name="back_arrow">←</string>
+    <string name="vs_icon">VS icon\n</string>
+    <string name="higher_button_text">HIGHER</string>
+    <string name="lower_button_text">LOWER</string>
+    <string name="exit_button_text">Exit</string>
+    <string name="retry_button_text">New game</string>
+    <string name="game_over_title">Game Over!</string>
+    <string name="back_to_menu_button">Back To Menu</string>
+    
+    <string name="score_with_high_template">Your score: %1$d\nHighscore: %2$d</string>
+    <string name="score_template">Score: %1$d</string>
+</resources>
